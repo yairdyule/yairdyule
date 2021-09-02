@@ -1,19 +1,8 @@
-Hiiii <3
-# yairdyule
-=======
-### Hi there 👋
+### Howdy! 🤠
 
-<!--
-**yairdyule/yairdyule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some personal projects.
+- 🌱 At the moment, I'm learning how to structure full-stack applications.
+- 👯 I'm happy to collaborate on anything and everything!!
+- 🤔 I’m looking for help with implementing secure user authentication & validation.
+- 💬 Ask me about my Vim configuration!
+- ⚡ Fun fact: I'm an adrenaline junkie! I love skiing and mountain biking.
